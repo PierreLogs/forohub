@@ -1,8 +1,5 @@
-package com.aluracursos.forohub.domain;
+package com.aluracursos.forohub.domain.topico;
 
-import com.aluracursos.forohub.topico.DatosActualizacionTopico;
-import com.aluracursos.forohub.topico.DatosRegistroTopico;
-import com.aluracursos.forohub.topico.StatusTopico;
 import jakarta.persistence.*;
 import jakarta.validation.Valid;
 import lombok.EqualsAndHashCode;
