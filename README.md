@@ -4,6 +4,8 @@
 ![Spring Boot 3.5.11](https://img.shields.io/badge/Spring%20Boot-3.5.11-brightgreen?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 ![JWT](https://img.shields.io/badge/Security-JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![CI](https://img.shields.io/github/actions/workflow/status/PierreLogs/forohub/ci.yml?style=for-the-badge&label=build)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
 **ForoHub** es una API REST diseñada para replicar el funcionamiento interno de un foro de discusión. Este proyecto permite gestionar tópicos, usuarios y autenticación, aplicando estándares modernos de desarrollo como **SOLID**, **Clean Code** y persistencia de datos relacional.
 
@@ -73,4 +75,4 @@ Durante el desarrollo se superaron retos específicos de compatibilidad:
 
 1. **Clonar repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/forohub.git](https://github.com/tu-usuario/forohub.git)
+   git clone https://github.com/PierreLogs/forohub.git
